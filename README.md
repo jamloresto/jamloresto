@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jamloresto
 - 👀 I’m interested in making things possible
-- 🌱 I’m currently learning different JavaScript frameworks
-- 📫 Check my portfolio for more information. https://jamloresto.github.io/portfolio-loresto/index.html
+- 🏆 I’m a frontend developer specializing in ReactJS
+- 🌱 I'm still exploring stuff so I can be a better developer
+- 📫 Check my portfolio for more information. https://www.jamloresto.com
 
 <!---
 - 💞️ I’m looking to collaborate on ...
