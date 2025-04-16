@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @jamloresto
-- 👀 I’m interested in making things possible
-- 🏆 I’m a frontend developer specializing in ReactJS
-- ⛏ But I also started doing backend using Laravel
-- 🌱 I'm still exploring stuff so I can be a better developer
-- 📫 Check my portfolio for more information. https://www.jamloresto.com
+I’m a passionate Front-End and Full-Stack Developer with over 3 years of hands-on experience building intuitive, scalable, and responsive web applications for global teams and clients. Currently working as a Product and Technology Lead, I thrive at the intersection of design, user experience, and code.
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-jamloresto/jamloresto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in React.js, Node.js, WordPress, and the MERN stack — building everything from dynamic dashboards to e-commerce platforms and animation-rich websites using GSAP and Tailwind CSS. Whether I'm collaborating with teams or managing solo freelance projects, I focus on clean architecture, maintainable code, and delivering value through user-centric design.
+
+💡 What I Bring:
+- Leadership in product development & technical strategy
+- End-to-end web development expertise (Front-end, Back-end, CMS)
+- Strong eye for design, responsive UX, and performance
+- A proven ability to bridge technical execution and creative vision
+
+📫 Let’s connect if you're building something meaningful or looking for a driven developer to elevate your product!
