@@ -42,7 +42,7 @@ WordPress (Custom Themes / ACF / SEO) • Git • Agile/Scrum • Figma
 <br/>🔗 LinkedIn: https://www.linkedin.com/in/jam-hernandez/
 
 <h3>📊 GitHub Stats</h3>
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=jamloresto&show_icons=true&theme=react&border_radius=10" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamloresto&layout=compact&theme=react&border_radius=10" /> </p>
+<p align="center"> ![jamloresto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamloresto&show_icons=true&theme=dracula) </p>
 
 <h3>🤝 Let’s Collaborate</h3>
 I'm always open to meaningful projects, collaborations, and opportunities.
