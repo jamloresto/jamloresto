@@ -24,27 +24,27 @@ I specialize in React.js, Next.js, Node.js, WordPress, and the MERN stack, build
 </ul>
 
 🛠️ Tech Stack
-<b>Frontend</b>
+<h4>Frontend</h4>
 React.js • Next.js • JavaScript (ES6+) • TypeScript • Tailwind CSS • GSAP • HTML • CSS • Responsive UI/UX
-<b>Backend</b>
+<h4>Backend</h4>
 Node.js • Express.js • REST APIs • MongoDB • MySQL • Authentication & Session Management
-<b>CMS & Other Tools</b>
-WordPress (Custom Themes/ACF) • Git • Agile/Scrum • Figma
+<h4>CMS & Other Tools</h4>
+WordPress (Custom Themes / ACF / SEO) • Git • Agile/Scrum • Figma
 
-🚀 What I Bring
+<h3>🚀 What I Bring</h3>
 🧩 Strong experience in UI development and clean system architecture
-🎨 Eye for responsive design and smooth user experiences
-🔍 Focus on maintainability, scalability, and performance
-🤝 Excellent collaboration, communication, and agile workflow
-🛠️ Ability to align technical execution with product strategy
+<br/>🎨 Eye for responsive design and smooth user experiences
+<br/>🔍 Focus on maintainability, scalability, and performance
+<br/>🤝 Excellent collaboration, communication, and agile workflow
+<br/>🛠️ Ability to align technical execution with product strategy
 
-🌐 Portfolio & Socials
+<h3>🌐 Portfolio & Socials</h3>
 🔗 Portfolio: https://www.jamloresto.com/
-🔗 LinkedIn: https://www.linkedin.com/in/jam-hernandez/
+<br/>🔗 LinkedIn: https://www.linkedin.com/in/jam-hernandez/
 
-📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=jamloresto&show_icons=true&theme=react&border_radius=10" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamloresto&layout=compact&theme=react&border_radius=10" /> </p>
 
-🤝 Let’s Collaborate
+<h3>🤝 Let’s Collaborate</h3>
 I'm always open to meaningful projects, collaborations, and opportunities.
-If you're building something exciting — let’s create something exceptional together!
+<br/>If you're building something exciting — let’s create something exceptional together!
